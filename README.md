@@ -6,6 +6,8 @@ Python interface for the WbTeamPro API
 
 WbTeamPropy is a Python interface to the WbTeamPro REST API.
 
+[![PyPI version](https://badge.fury.io/py/wbteampropy.svg)](https://badge.fury.io/py/wbteampropy)
+
 ## Usage
 
 Create a WbTeamPro interface with the API URL and credentials and use it to
